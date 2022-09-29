@@ -1,3 +1,5 @@
 HK_traffic_speed/
 HK_traffic_speed.zip
-processed/
+processed/data.pt
+processed/pre_filter.pt
+processed/pre_transform.pt
